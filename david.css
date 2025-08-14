@@ -1,0 +1,20 @@
+h1{
+    color: burlywood;
+}
+
+h1#lorem{
+    color: brown;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+h2.lorem2{
+    color: teal;
+    text-align: center;
+}
+
+/* *{
+    background-color: brown;
+    text-align: center;
+}*/
+
